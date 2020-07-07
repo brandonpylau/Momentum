@@ -1,2 +1,4 @@
 # Momentum
-In this project, I explored an E-tool called Momentum, which is a Chrome Extension that helps with productivity.
+In this project, I explored an E-tool called Momentum, which is a to-do list Chrome Extension that helps with productivity. It replaces the New Tab page with a personal dashboard that features a to-do list to keep track of tasks, weather, and inspirational quotes that change daily. It is designed for people who spend a lot of time in their browser opening new tabs.
+
+The main purpose of this project was to describe my experiences of using software that I had not previously used, which was expected to be written in the format of a technical proposal. In the technical proposal format, this included talking about the ***purpose*** of Momentum and the ***benefits*** of using the Momentum Chrome extension, which can then be used to advocate for why Momentum could be a useful tool for people to use to boost their productivity. 
